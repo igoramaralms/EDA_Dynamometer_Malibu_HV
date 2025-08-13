@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+.env
+*.log
+
+# Dados grandes
+data/raw/
+data/interim/
+data/external/
+
+# IDEs
+.vscode/
+.idea/
