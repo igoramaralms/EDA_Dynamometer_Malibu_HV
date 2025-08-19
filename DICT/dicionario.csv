@@ -1,0 +1,18 @@
+Feature,Descrição,Fonte do PDF
+Test_id,Identificador único para cada teste de ciclo.,D3 Master Summary List- 2013 Chevrolet Malibu Eco.pdf
+Time[sec],Tempo decorrido em segundos durante o ciclo de teste.,D3 Master Summary List- 2013 Chevrolet Malibu Eco.pdf
+Dyno_Speed[mph],Velocidade do dinamômetro em milhas por hora (mph).,D3 Master Summary List- 2013 Chevrolet Malibu Eco.pdf
+Dyno_Tractive_Effort[N],"Esforço de tração do dinamômetro em Newtons (N). Não mencionado explicitamente nos PDFs, mas é um parâmetro de teste padrão do dinamômetro.",
+Test_Cell_RH[%],Umidade relativa (RH) na célula de teste.,D3 Master Summary List- 2013 Chevrolet Malibu Eco.pdf
+Test_Cell_Temp[C],Temperatura da célula de teste em graus Celsius.,D3 Master Summary List- 2013 Chevrolet Malibu Eco.pdf
+Phase_#,"O número da fase do ciclo de condução (por exemplo, UDDS, HWFET, US06). Os PDFs mostram que diferentes ciclos de condução consistem em diferentes perfis de velocidade, aceleração e potência.","paper-malibu-eco-2013.pdf, D3 Master Summary List- 2013 Chevrolet Malibu Eco.pdf"
+Engine_Oil_Temp[C],Temperatura do óleo do motor em graus Celsius.,
+Engine_Coolant_Temp[C],Temperatura do líquido de arrefecimento do motor em graus Celsius.,2013 Chevrolet Malibu Hybrid ECO.pdf
+Engine_Speed[rpm],Velocidade do motor em rotações por minuto (rpm).,paper-malibu-eco-2013.pdf
+HV_Battery_Current[A],Corrente da bateria de alta tensão (HV) em Amperes (A).,paper-malibu-eco-2013.pdf
+HV_Battery_Voltage[V],Tensão da bateria de alta tensão (HV) em Volts (V).,paper-malibu-eco-2013.pdf
+Fuel_Flow_FuelScale[cc/s],Fluxo de combustível em centímetros cúbicos por segundo (cc/s).,paper-malibu-eco-2013.pdf
+
+
+
+## Há temperatura do Motor não da Bateria
